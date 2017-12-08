@@ -16,7 +16,8 @@
 title: zzzyyj's Blog
 email: 451881501@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  切图仔的进修之路，欢迎各方好汉指点迷津 
+  切图仔的进修之路，欢迎各方好汉指点迷津
+  testing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
