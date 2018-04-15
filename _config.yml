@@ -16,7 +16,7 @@
 title: YuJun's Blog
 email: dgutyujun@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  YuJun Blog
+  暂无更新
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zzzyyj
@@ -29,3 +29,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+paginate: 5
