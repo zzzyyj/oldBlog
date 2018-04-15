@@ -1,6 +1,15 @@
 ---
 layout: post
-title:  "test"
+title:  "近期前端面试知识点整理（18年4月份）"
 date:   2018-04-15 15:37:00 +0800
 ---
-testing123
+
+近期帮公司招聘前端开发会问的几个简单问题
+- html的块级元素、行内元素有哪些？
+- html5,css3的新特性是有哪些
+- localStorage,sessionStorage,cookie是什么，有什么区别？
+- javascript有哪几种基本数据类型？
+- javascript，创建对象的几种方式
+- javascript的原型、原型链知识
+- es6有哪些特性？
+- 数组去重的几种方式
